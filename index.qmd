@@ -19,6 +19,9 @@ about:
     - icon: 📝
       text: CV
       href: Qi_Kuang_CV_EN.pdf  
+    - icon: 📝
+      text: 简历
+      href: Qi_Kuang_CV_CN.pdf 
 ---
 
 ::: {#hero-heading}
