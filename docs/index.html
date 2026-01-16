@@ -126,6 +126,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<!-- page-local styles: only affect this page -->
+<style>
+/* reduce heading sizes on this page only */
+h1 {
+  font-size: 1.75rem !important;    /* page title */
+  margin-bottom: 1.25rem !important;
+}
+h2 {
+  font-size: 1.15rem !important;    /* section titles */
+  margin-top: 1rem !important;
+  margin-bottom: 0.6rem !important;
+}
+h3 {
+  font-size: 1.0rem !important;     /* sub-section titles */
+  margin-top: 0.75rem !important;
+  margin-bottom: 0.4rem !important;
+}
+
+/* optional: keep spacing tidy on small screens */
+@media (max-width: 700px) {
+  h1 { font-size: 1.6rem !important; }
+  h2 { font-size: 1.05rem !important; }
+  h3 { font-size: 0.96rem !important; }
+}
+</style>
 <div class="quarto-about-trestles">
   <div class="about-entity">
     <img src="images/Qi_KUANG1.png" class="about-image
@@ -163,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><div id="hero-heading">
 <p>Qi Kuang is an applied economist and data scientist whose work lies at the intersection of education policy, development economics, and applied econometrics. Her research focuses on inequality, social mobility, and resilience to climate and institutional shocks. She uses a combination of administrative data, household surveys, and geospatial information to study the impact of public policies and external shocks on individual and institutional outcomes.</p>
 <p>Currently, she is a data scientist at the OECD Directorate for Education and Skills, where she contributes to Education at a Glance and the UOE (UNESCO-OECD-Eurostat) data collection. She focuses on data-intensive work, including data collection, cleaning, validation, and indicator construction. She develops and maintains analytical tools in R and Stata to ensure the quality, international comparability, and robustness of the data and indicator calculations. She leads the migration of indicator production processes from Stata do-files to R-based workflows. This includes developing internal R packages to ensure methodological consistency across indicators. Substantively, her work focuses on teachers and disaggregated school- and institution-level data. Additionally, she leads school data projects involving large administrative datasets and geospatial analysis.</p>
-<p>Qi holds a master’s degree in economics (Analysis and Policy in Economics) from the Paris School of Economics, from which she graduated with honors. For her master’s thesis, titled “Resilience in the Face of Climate Variability,” she analyzed the effects of climate shocks on household decision-making in Bangladesh using satellite data, spatial analysis, and econometric methods. She was awarded a French government Master’s scholarship during her studies.</p>
+<p>Qi holds a master’s degree in economics (Analysis and Policy in Economics) from the Paris School of Economics, from which she graduated with honors. For her master’s thesis, titled “Resilience in the Face of Climate Variability”, she analyzed the effects of climate shocks on household decision-making in Bangladesh using satellite data, spatial analysis, and econometric methods. She was awarded a French government Master’s scholarship during her studies.</p>
 <p>Her research experience spans climate and development economics, political economy, and urban and regional economics. She has contributed to projects on environmental regulation in India that use machine learning methods applied to large-scale text data; fiscal transfers and population agglomeration in China; and the social integration of relocated populations based on original field surveys. Through these projects, she has developed expertise in Stata, R, Python, and GIS tools, such as QGIS and ArcGIS, as well as survey design and field-based research.</p>
 <section id="background" class="level2">
 <h2 data-anchor-id="background">Background</h2>

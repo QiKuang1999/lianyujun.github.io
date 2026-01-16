@@ -156,12 +156,27 @@ ul.task-list li input[type="checkbox"] {
 
 <!-- page-local styles: only affect this page -->
 <style>
-/* increase gap below the page title and above the first section */
+/* reduce heading sizes on this page only */
 h1 {
-  margin-bottom: 3rem !important;
+  font-size: 1.75rem !important;    /* page title */
+  margin-bottom: 1.25rem !important;
 }
-h1 + h2 {
-  margin-top: 1.25rem !important;
+h2 {
+  font-size: 1.15rem !important;    /* section titles */
+  margin-top: 1rem !important;
+  margin-bottom: 0.6rem !important;
+}
+h3 {
+  font-size: 1.0rem !important;     /* sub-section titles */
+  margin-top: 0.75rem !important;
+  margin-bottom: 0.4rem !important;
+}
+
+/* optional: keep spacing tidy on small screens */
+@media (max-width: 700px) {
+  h1 { font-size: 1.6rem !important; }
+  h2 { font-size: 1.05rem !important; }
+  h3 { font-size: 0.96rem !important; }
 }
 </style>
 <section id="个人简介" class="level2">

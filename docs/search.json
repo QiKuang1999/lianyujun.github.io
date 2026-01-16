@@ -16,30 +16,44 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Books",
+    "title": "Projects",
     "section": "",
-    "text": "主页 || 课程 || 视频 || 推文 || 资料\n这些书稿是由我平时上课时的讲义整理而成的，尚未完稿。大家在阅读过程中，若发现错误或表述不妥之处，烦请邮件告知我，以便完善。我的邮箱：arlionn@163.com。"
+    "text": "Data collection on schools (primary and lower secondary)\nProject on ETER database"
   },
   {
-    "objectID": "projects.html#stata",
-    "href": "projects.html#stata",
-    "title": "Books",
-    "section": "Stata",
-    "text": "Stata\n\n连玉君，2025，Stata 101 | 课件下载\n\n观看配套视频：连享会视频课堂 | B 站"
+    "objectID": "projects.html#data-on-schools-oecd-ines-project",
+    "href": "projects.html#data-on-schools-oecd-ines-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Data collection on schools (primary and lower secondary)\nProject on ETER database"
   },
   {
-    "objectID": "projects.html#python",
-    "href": "projects.html#python",
-    "title": "Books",
-    "section": "Python",
-    "text": "Python\n\n连玉君, 2025, 数据分析与 Python 应用\n\n我教授的数据分析与经济决策课程的讲义，还很粗糙。"
+    "objectID": "projects.html#teachers-oecd-ines-project",
+    "href": "projects.html#teachers-oecd-ines-project",
+    "title": "Projects",
+    "section": "Teachers (OECD INES project)",
+    "text": "Teachers (OECD INES project)\n\nUOE PERS questionnaire\nUOE TEACH module"
   },
   {
-    "objectID": "projects.html#quarto-book",
-    "href": "projects.html#quarto-book",
-    "title": "Books",
-    "section": "Quarto book",
-    "text": "Quarto book\n\n连玉君，2025，quarto book。\n\n这本书介绍了如何使用 Quarto+Github，编写在线笔记和教程。你无须申请域名，只需下载我提供的模版，添加你自己的书稿或笔记内容，运行后通过 github pages 发布你的书稿。整个流程只需要几个小时的时间就可以搞定。\n\n\n \n\n\n主页 || 课程 || 视频 || 推文 || 资料"
+    "objectID": "projects.html#vocational-training-oecd-ines-project",
+    "href": "projects.html#vocational-training-oecd-ines-project",
+    "title": "Projects",
+    "section": "Vocational training (OECD INES project)",
+    "text": "Vocational training (OECD INES project)\n\nxxxx"
+  },
+  {
+    "objectID": "projects.html#adult-education-oecd-ines-project",
+    "href": "projects.html#adult-education-oecd-ines-project",
+    "title": "Projects",
+    "section": "Adult education (OECD INES project)",
+    "text": "Adult education (OECD INES project)\n\nxxxx"
+  },
+  {
+    "objectID": "projects.html#resilience-in-the-face-of-climate-variability-master-thesis",
+    "href": "projects.html#resilience-in-the-face-of-climate-variability-master-thesis",
+    "title": "Projects",
+    "section": "Resilience in the Face of Climate Variability (Master Thesis)",
+    "text": "Resilience in the Face of Climate Variability (Master Thesis)\n\nxxxx"
   },
   {
     "objectID": "Chinese.html",
@@ -137,14 +151,42 @@
     "href": "codes.html",
     "title": "Codes",
     "section": "",
-    "text": "Many of the links below will take you to content on GitHub (my github).\n\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换."
+    "text": "Many of the links below will take you to content on GitHub."
+  },
+  {
+    "objectID": "codes.html#stata-code-sample",
+    "href": "codes.html#stata-code-sample",
+    "title": "Codes",
+    "section": "Stata code sample",
+    "text": "Stata code sample\n\nPrject one: master\nProject two: RA application"
+  },
+  {
+    "objectID": "codes.html#r-codes",
+    "href": "codes.html#r-codes",
+    "title": "Codes",
+    "section": "R codes",
+    "text": "R codes\n\ndata analysis: a piece of work\ndata visualisation\ndata processing –&gt; using data and defined excel template"
+  },
+  {
+    "objectID": "codes.html#r-package",
+    "href": "codes.html#r-package",
+    "title": "Codes",
+    "section": "R package",
+    "text": "R package"
+  },
+  {
+    "objectID": "codes.html#python",
+    "href": "codes.html#python",
+    "title": "Codes",
+    "section": "Python",
+    "text": "Python\n\nMap creation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Qi KUANG",
     "section": "",
-    "text": "kuangqi1024@gmail.com\n  \n  \n    \n     QiKuang1999\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n  \n    \n     简历\n  \n\n  \n  \nQi Kuang is an applied economist and data scientist whose work lies at the intersection of education policy, development economics, and applied econometrics. Her research focuses on inequality, social mobility, and resilience to climate and institutional shocks. She uses a combination of administrative data, household surveys, and geospatial information to study the impact of public policies and external shocks on individual and institutional outcomes.\nCurrently, she is a data scientist at the OECD Directorate for Education and Skills, where she contributes to Education at a Glance and the UOE (UNESCO-OECD-Eurostat) data collection. She focuses on data-intensive work, including data collection, cleaning, validation, and indicator construction. She develops and maintains analytical tools in R and Stata to ensure the quality, international comparability, and robustness of the data and indicator calculations. She leads the migration of indicator production processes from Stata do-files to R-based workflows. This includes developing internal R packages to ensure methodological consistency across indicators. Substantively, her work focuses on teachers and disaggregated school- and institution-level data. Additionally, she leads school data projects involving large administrative datasets and geospatial analysis.\nQi holds a master’s degree in economics (Analysis and Policy in Economics) from the Paris School of Economics, from which she graduated with honors. For her master’s thesis, titled “Resilience in the Face of Climate Variability,” she analyzed the effects of climate shocks on household decision-making in Bangladesh using satellite data, spatial analysis, and econometric methods. She was awarded a French government Master’s scholarship during her studies.\nHer research experience spans climate and development economics, political economy, and urban and regional economics. She has contributed to projects on environmental regulation in India that use machine learning methods applied to large-scale text data; fiscal transfers and population agglomeration in China; and the social integration of relocated populations based on original field surveys. Through these projects, she has developed expertise in Stata, R, Python, and GIS tools, such as QGIS and ArcGIS, as well as survey design and field-based research.\n\n\n\n2023 - Present: Junior data scientist at the OECD (Organisation for Economic Co-operation and Development)\n2021 - 2024: MRes in Analysis and Policy in Economics (APE), Paris School of Economics, France, specializing in Development Economics\n2017 - 2021: Bachelor of Economics, Zhejiang University, China, majoring in Economics"
+    "text": "kuangqi1024@gmail.com\n  \n  \n    \n     QiKuang1999\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n  \n    \n     简历\n  \n\n  \n  \nQi Kuang is an applied economist and data scientist whose work lies at the intersection of education policy, development economics, and applied econometrics. Her research focuses on inequality, social mobility, and resilience to climate and institutional shocks. She uses a combination of administrative data, household surveys, and geospatial information to study the impact of public policies and external shocks on individual and institutional outcomes.\nCurrently, she is a data scientist at the OECD Directorate for Education and Skills, where she contributes to Education at a Glance and the UOE (UNESCO-OECD-Eurostat) data collection. She focuses on data-intensive work, including data collection, cleaning, validation, and indicator construction. She develops and maintains analytical tools in R and Stata to ensure the quality, international comparability, and robustness of the data and indicator calculations. She leads the migration of indicator production processes from Stata do-files to R-based workflows. This includes developing internal R packages to ensure methodological consistency across indicators. Substantively, her work focuses on teachers and disaggregated school- and institution-level data. Additionally, she leads school data projects involving large administrative datasets and geospatial analysis.\nQi holds a master’s degree in economics (Analysis and Policy in Economics) from the Paris School of Economics, from which she graduated with honors. For her master’s thesis, titled “Resilience in the Face of Climate Variability”, she analyzed the effects of climate shocks on household decision-making in Bangladesh using satellite data, spatial analysis, and econometric methods. She was awarded a French government Master’s scholarship during her studies.\nHer research experience spans climate and development economics, political economy, and urban and regional economics. She has contributed to projects on environmental regulation in India that use machine learning methods applied to large-scale text data; fiscal transfers and population agglomeration in China; and the social integration of relocated populations based on original field surveys. Through these projects, she has developed expertise in Stata, R, Python, and GIS tools, such as QGIS and ArcGIS, as well as survey design and field-based research.\n\n\n\n2023 - Present: Junior data scientist at the OECD (Organisation for Economic Co-operation and Development)\n2021 - 2024: MRes in Analysis and Policy in Economics (APE), Paris School of Economics, France, specializing in Development Economics\n2017 - 2021: Bachelor of Economics, Zhejiang University, China, majoring in Economics"
   },
   {
     "objectID": "index.html#background",
