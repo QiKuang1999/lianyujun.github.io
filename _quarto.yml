@@ -5,8 +5,8 @@ project:
 website:
   page-navigation: true
   title: "Qi KUANG"
-  site-url: https://lianyujun.github.io
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  site-url: https://qikuang1999.github.io/qikuang.github.io
+  repo-url: https://github.com/QiKuang1999/qikuang.github.io.git
   repo-actions: [edit, issue]
   
   page-footer:
