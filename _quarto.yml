@@ -4,7 +4,7 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
+  title: "Qi KUANG"
   site-url: https://lianyujun.github.io
   favicon: images/site-logo.png
   repo-url: https://github.com/lianyujun/lianyujun.github.io
@@ -22,18 +22,14 @@ website:
     right: 
       - text: "Home"
         href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
+      - text: "Projects"
+        href: projects.qmd
       - text: "Codes"
         href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"
-        href: CV.pdf
+        href: Qi_Kuang_CV_EN.pdf
 
 format:
   html:
